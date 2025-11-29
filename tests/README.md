@@ -44,7 +44,7 @@ This script launches QEMU in the background, connects to the UART port via TCP, 
 1.  Build Module 2 first.
 2.  Run the test:
     ```bash
-    cd firmware_guide/tests
+    cd tests
     python test_uart.py
     ```
 

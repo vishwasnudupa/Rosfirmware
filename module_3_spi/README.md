@@ -58,7 +58,7 @@ sequenceDiagram
 ```
 
 ## How to Run
-1.  Navigate to `firmware_guide/module_3_spi/project`.
+1.  Navigate to `module_3_spi/project`.
 2.  Build:
     ```bash
     mkdir build

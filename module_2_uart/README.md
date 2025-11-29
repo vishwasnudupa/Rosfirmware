@@ -66,7 +66,7 @@ sequenceDiagram
 *   **Activity**: We build a simple shell that accepts commands like `led_on`, `led_off`, and `help`.
 
 ## How to Run
-1.  Navigate to `firmware_guide/module_2_uart/project`.
+1.  Navigate to `module_2_uart/project`.
 2.  Build:
     ```bash
     mkdir build

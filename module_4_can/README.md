@@ -78,7 +78,7 @@ sequenceDiagram
 ```
 
 ## How to Run
-1.  Navigate to `firmware_guide/module_4_can/project`.
+1.  Navigate to `module_4_can/project`.
 2.  Build:
     ```bash
     mkdir build

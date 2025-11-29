@@ -151,7 +151,7 @@ To build and run the projects, you need:
 4.  **QEMU** (Emulator): [Download](https://www.qemu.org/download/)
 
 ### Building Module 1
-Navigate to `firmware_guide/module_1_fundamentals/project` and run:
+Navigate to `module_1_fundamentals/project` and run:
 
 ```bash
 mkdir build
